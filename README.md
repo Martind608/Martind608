@@ -14,6 +14,7 @@ Hola, soy Martín, estudiante de 'Tecnicatura Superior en Análisis de Sistemas'
 <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Martind608&count_private=true&show_icons=true&include_all_commits=true)
 
 ### 
 <!-- <b>Estadisticas</b>
