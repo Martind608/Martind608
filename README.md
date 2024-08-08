@@ -20,6 +20,5 @@ Hola, soy Martín, estudiante de 'Tecnicatura Superior en Análisis de Sistemas'
 
 <a href="http://www.github.com/Martind608"><img src="https://github-readme-stats.vercel.app/api?username=Martind608&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Martind608's GitHub stats" /></a>
 
-<a href="http://www.github.com/Martind608"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Martind608&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Martind608" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martind608&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
